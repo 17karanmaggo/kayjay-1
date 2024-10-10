@@ -1100,12 +1100,12 @@ img {
 }
 
 .main-header .sticky-header .header-upper {
-    background: #2b2c2e;
+    background: #ffffff;
 }
 
 .header-style-two .sticky-header .main-menu .navigation>li.current>a,
 .header-style-two .sticky-header .main-menu .navigation>li>a {
-    color: #fff;
+    color: #000000;
 }
 
 /*** 
@@ -1586,9 +1586,9 @@ img {
 
 .banner-section .content-box h1 {
     position: relative;
-    font-size: 100px;
+    font-size: 60px;
     font-weight: 900;
-    line-height: 100px;
+    line-height: 60px;
     color: #ffffff;
     text-transform: uppercase;
     opacity: 0;
@@ -1848,10 +1848,10 @@ img {
 
 .sec-title h2 {
     position: relative;
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 900;
     text-transform: uppercase;
-    line-height: 70px;
+    line-height: 50px;
     letter-spacing: -1px;
 }
 
