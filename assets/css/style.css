@@ -417,7 +417,7 @@ img {
     font-size: 15px;
     line-height: 24px;
     color: #fff;
-    padding: 23px 60px;
+    padding: 15px 20px;
     font-weight: 700;
     border-radius: 0;
     overflow: hidden;
@@ -1586,9 +1586,9 @@ img {
 
 .banner-section .content-box h1 {
     position: relative;
-    font-size: 60px;
+    font-size: 40px;
     font-weight: 900;
-    line-height: 60px;
+    line-height: 40px;
     color: #ffffff;
     text-transform: uppercase;
     opacity: 0;
@@ -1714,15 +1714,15 @@ img {
 
 .banner-section .banner-slider-button-next {
     position: relative;
-    width: 85px;
-    height: 85px;
-    line-height: 85px;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
     text-align: center;
     color: #181614;
     cursor: pointer;
     z-index: 9;
     margin-right: 50px;
-    font-size: 25px;
+    font-size: 20px;
     background-color: #fff;
     transition: .5s;
     transform: rotate(180deg);
@@ -1734,15 +1734,15 @@ img {
 
 .banner-section .banner-slider-button-prev {
     position: relative;
-    width: 85px;
-    height: 85px;
-    line-height: 85px;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
     text-align: center;
     color: #181614;
     cursor: pointer;
     z-index: 9;
     margin-left: 50px;
-    font-size: 25px;
+    font-size: 20px;
     background-color: #ffffff;
     transition: .5s;
 }
@@ -1848,7 +1848,7 @@ img {
 
 .sec-title h2 {
     position: relative;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 900;
     text-transform: uppercase;
     line-height: 50px;
@@ -1867,8 +1867,8 @@ img {
 
 /* Main Footer */
 .main-footer {
-    position: relative;
-    padding: 100px 0 50px;
+    /* position: relative; */
+    padding: 100px 0 0px;
     background-size: cover;
 }
 
@@ -2016,12 +2016,12 @@ img {
     }
 }
 
-.footer-bottom {
+/* .footer-bottom {
     position: relative;
     padding: 32px 0 30px;
     background-color: #12100f;
     border-top: 1px solid #302e2c;
-}
+} */
 
 .footer-bottom .social-icon {
     position: relative;
@@ -3047,7 +3047,7 @@ img {
 
 .video-section h2 {
     position: relative;
-    font-size: 70px;
+    font-size: 50px;
     font-weight: 900;
     text-transform: uppercase;
     color: #fff;
@@ -3214,10 +3214,10 @@ img {
     bottom: 20px;
     right: 20px;
     text-align: center;
-    font-size: 30px;
+    font-size: 22px;
     font-weight: 900;
     text-transform: uppercase;
-    padding: 45px 20px;
+    padding: 20px 10px;
 }
 
 .project-block h4 a {
@@ -3494,7 +3494,7 @@ img {
 
 .news-section-two {
     position: relative;
-    padding: 120px 0 90px;
+    padding: 120px 0 0px;
     border-bottom: 1px solid #edebe8;
 }
 
